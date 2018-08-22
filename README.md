@@ -8,8 +8,8 @@ This project is a multistage rocket. The first goal is a web page showing an up-
 
 ## Scrape data
 - DONE Locate the data
-- Learn how to scrape data using R
-- Scrape data 
+- CANCELED Learn how to scrape data using R
+- CANCELED Scrape data 
 
 ### Information on the data can be found here: https://data.giss.nasa.gov/gistemp/
 
