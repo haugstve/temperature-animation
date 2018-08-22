@@ -6,6 +6,9 @@ This project is a multistage rocket. The first goal is a web page showing an up-
 This step of the plan is never done, but future revisions to the plan will not be placed as a step in the plan.
 
 ## Sync project to local computer
+- Read about the integration between Git, GitHub and RStudio [here](http://happygitwithr.com)
+- Decide on a solutino
+- Implement that solution
 
 ## Scrape data
 - DONE Locate the data
