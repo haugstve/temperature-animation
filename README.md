@@ -1,6 +1,6 @@
 # temperature-animation
 
-This project is a multistage rocket. The end goal is a web page showing an up-to-date version of the famous animation by [Ed Hawkins](https://twitter.com/ed_hawkins/status/729753441459945474 "Animation on Twitter"). There is no detailed roadmap only this goal. However, it is possible the identify the current state of the project from the todo-list.
+This project is a multistage rocket. The first goal is a web page showing an up-to-date version of the famous animation by [Ed Hawkins](https://twitter.com/ed_hawkins/status/729753441459945474 "Animation on Twitter"). The second goal is to make the same animation for different regions. There is no detailed roadmap only this goal. However, it is possible the identify the current state of the project from the todo-list.
 
 ## Scrape data
 - DONE Locate the data
