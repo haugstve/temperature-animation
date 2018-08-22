@@ -20,3 +20,12 @@ Hansen, J., R. Ruedy, M. Sato, and K. Lo, 2010: [Global surface temperature chan
 
 ## Plot temprature
 
+## Learn animations
+
+## Create the animation 
+
+## Make a webpage which can host the animation
+
+## Deploy the animation 
+
+## Update how often the animation loads the relevant data
