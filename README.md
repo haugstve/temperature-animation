@@ -11,5 +11,12 @@ This project is a multistage rocket. The end goal is a web page showing an up to
 
 ### The dat in CVS format is here: https://data.giss.nasa.gov/gistemp/tabledata_v3/GLB.Ts.csv
 
+### The correct way to cite the data
+When referencing the GISTEMP data provided here, please cite both this webpage and also our most recent scholarly publication about the data. In citing the webpage, be sure to include the date of access.
+
+GISTEMP Team, 2018: GISS Surface Temperature Analysis (GISTEMP). NASA Goddard Institute for Space Studies. Dataset accessed 20YY-MM-DD at https://data.giss.nasa.gov/gistemp/.
+
+Hansen, J., R. Ruedy, M. Sato, and K. Lo, 2010: [Global surface temperature change](https://pubs.giss.nasa.gov/abs/ha00510u.html), Rev. Geophys., 48, RG4004, doi:10.1029/2010RG000345.
+
 ## Plot temprature
 
