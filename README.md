@@ -44,4 +44,7 @@ If possible use a package close to ggplot.
 
 ## Update how often the animation loads the relevant data
 This is a test
+
 This is a test from RStudio
+
+This is a test from GitHub, now the lines in the markup should display on separate lines
