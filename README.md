@@ -13,7 +13,7 @@ This project is a multistage rocket. The first goal is a web page showing an up-
 
 ### Information on the data can be found here: https://data.giss.nasa.gov/gistemp/
 
-### The dat in CVS format is here: https://data.giss.nasa.gov/gistemp/tabledata_v3/GLB.Ts.csv
+### The data in CVS format is here: https://data.giss.nasa.gov/gistemp/tabledata_v3/GLB.Ts.csv
 
 ### The correct way to cite the data
 When referencing the GISTEMP data provided here, please cite both this webpage and also our most recent scholarly publication about the data. In citing the webpage, be sure to include the date of access.
